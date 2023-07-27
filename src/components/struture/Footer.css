@@ -1,0 +1,27 @@
+.footer {
+    position: fixed;
+    left: 16px;
+    bottom: 16px;
+    text-align: left;
+    background: #000;
+    padding: 8px 24px;
+    border-radius: 32px;
+    opacity: .6;
+    backdrop-filter: blur(8px);
+}
+.footer:hover {
+    opacity: .7;
+    cursor: pointer;
+}
+
+.footer span {
+    font-size: 14px;
+    color: #09f;
+    opacity: .8;
+}
+  
+.footer h4, .footer h5 {
+    margin: 0;
+    display: flex;
+    color: #f0f8ff;
+}
