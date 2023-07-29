@@ -3,9 +3,9 @@ import { getAllProducts } from 'utils/products';
 import { ProductsList } from './styles';
 
 import { useParams } from 'react-router-dom';
-import { FooterContentWeb } from 'components/struture/footerEcommerce';
-import { HeaderContent } from 'components/struture/header';
-import { Footer } from 'components/struture/footerProject';
+import { FooterContentWeb } from 'components/Structure/footerEcommerce';
+import { HeaderContent } from 'components/Structure/header';
+import { Footer } from 'components/Structure/footerProject';
 
 function AllProducts() {
   const { productId } = useParams();

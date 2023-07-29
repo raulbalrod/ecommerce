@@ -1,10 +1,10 @@
 import { CollectionsHome } from 'components/Collection/collectionsHome';
-import { FooterContentWeb } from 'components/struture/footerEcommerce';
+import { FooterContentWeb } from 'components/Structure/footerEcommerce';
 import { collections } from 'data/collections';
 import { RandomProducts } from 'components/randomProducts';
 import confetti from 'canvas-confetti';
-import { HeaderContent } from 'components/struture/header';
-import { Footer } from 'components/struture/footerProject';
+import { HeaderContent } from 'components/Structure/header';
+import { Footer } from 'components/Structure/footerProject';
 
 const { RandomProductsStyle } = require('containers/AllProducts/styles');
 

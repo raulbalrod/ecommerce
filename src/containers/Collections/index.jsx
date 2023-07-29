@@ -1,7 +1,7 @@
 import { Collection } from 'components/Collection/Collection';
-import { FooterContentWeb } from 'components/struture/footerEcommerce';
-import { Footer } from 'components/struture/footerProject';
-import { HeaderContent } from 'components/struture/header';
+import { FooterContentWeb } from 'components/Structure/footerEcommerce';
+import { Footer } from 'components/Structure/footerProject';
+import { HeaderContent } from 'components/Structure/header';
 import { collections } from 'data/collections';
 
 function Collections() {

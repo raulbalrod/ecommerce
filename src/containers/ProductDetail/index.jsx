@@ -3,10 +3,10 @@ import { getProductDetails } from 'utils/products';
 import { RandomProductsStyle } from 'containers/AllProducts/styles';
 import { ImagesDetailsProduct } from 'components/ProductDetail/Images';
 import { DetailsProduct } from 'components/ProductDetail/Details';
-import { FooterContentWeb } from 'components/struture/footerEcommerce';
+import { FooterContentWeb } from 'components/Structure/footerEcommerce';
 import { RandomProducts } from 'components/randomProducts';
-import { HeaderContent } from 'components/struture/header';
-import { Footer } from 'components/struture/footerProject';
+import { HeaderContent } from 'components/Structure/header';
+import { Footer } from 'components/Structure/footerProject';
 
 function ProductDetail() {
   const { productId } = useParams();
