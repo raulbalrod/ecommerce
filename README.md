@@ -18,9 +18,10 @@ Welcome to the repository of my first React project, an exciting online store/ec
 
 
 ## Technologies Used
-- React
-- Javascript
-- HTML & CSS
+[![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-dd4b25?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/Css-31a4d5?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 
 ## Usage Instructions
 1. Clone this repository to your local machine using `git clone`.
