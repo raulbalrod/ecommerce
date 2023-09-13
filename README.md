@@ -10,11 +10,10 @@ Welcome to the repository of my first React project, an exciting online store/ec
 - **Cart Management**: No worries if you change your mind! You can easily add and remove products from the cart. The intuitive interface gives you full control over your purchases.
 
 ## Screenshots
-![](https://cdn.discordapp.com/attachments/1137433709470032043/1138775748740653106/image.png)
-![](https://cdn.discordapp.com/attachments/1137433709470032043/1138775437250658384/image.png)
-![](https://cdn.discordapp.com/attachments/1137433709470032043/1138775497099202682/image.png)
-![](https://cdn.discordapp.com/attachments/1137433709470032043/1138775555735572530/image.png)
-![](https://cdn.discordapp.com/attachments/1137433709470032043/1138775621841989642/image.png)
+
+![](https://cdn.discordapp.com/attachments/1151495726656929823/1151495762136530994/products.png)
+![](![](https://cdn.discordapp.com/attachments/1151495726656929823/1151497346593595392/product-detail.png))
+![](https://cdn.discordapp.com/attachments/1151495726656929823/1151496314211794954/image.png)
 
 
 ## Technologies Used
