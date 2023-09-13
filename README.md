@@ -12,7 +12,7 @@ Welcome to the repository of my first React project, an exciting online store/ec
 ## Screenshots
 
 ![](https://cdn.discordapp.com/attachments/1151495726656929823/1151495762136530994/products.png)
-![](![](https://cdn.discordapp.com/attachments/1151495726656929823/1151497346593595392/product-detail.png))
+![](https://cdn.discordapp.com/attachments/1151495726656929823/1151497346593595392/product-detail.png)
 ![](https://cdn.discordapp.com/attachments/1151495726656929823/1151496314211794954/image.png)
 
 
