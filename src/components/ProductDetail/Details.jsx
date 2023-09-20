@@ -1,22 +1,9 @@
-import { products } from 'data/products';
-import { useCart } from 'hooks/useCart';
-import { useParams } from 'react-router-dom';
-
 export const DetailsProduct = ({ name, price, id, details }) => {
-  const { productId } = useParams();
-  const productOrder = products.find((product) => product.id === productId);
-
-  const { addToCart } = useCart();
-
   return (
     <section className='product-details-data'>
       <h2>{name}</h2>
       <h3>{price}</h3>
-      <button
-        className='add-product-cart'
-        value={id}
-        onClick={() => addToCart(productOrder)}
-      >
+      <button className='add-product-cart' value={id}>
         Add to cart
       </button>
 

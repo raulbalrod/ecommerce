@@ -1,6 +1,5 @@
 import { Header } from 'containers/AllProducts/styles';
 import { Link } from 'react-router-dom';
-import { Cart } from 'components/Order/Cart';
 
 export const HeaderContent = () => {
   return (
@@ -16,10 +15,6 @@ export const HeaderContent = () => {
         <Link to={`/collections`} style={{ textDecoration: 'none' }}>
           <h3>COLLECTIONS</h3>
         </Link>
-      </div>
-
-      <div>
-        <Cart />
       </div>
     </Header>
   );
